@@ -1,58 +1,52 @@
 [
-    {
-        "titulo":"developp (2023)",
-         "calificacion":"8.1" , 
-         "director":"Joss Whedon",
-         "actores":"Robert Downey Jr.," ,
-         "fecha":"1 de mayo (2015)",
-         "duraccion":"2h14",
-         "img":"images/uploads/mv-item7.jpg",
-         "descripcion":"Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
-
-    },
-    {
-       "titulo":"rebel mom (2023)",	
-        "calificacion":"10" ,
-        "director":"Luis garcia",
-        "actores":"Nando, Brayan, pao, erika, jk, vslr,isa,ian,wal.," ,
-        "fecha":"1  mayo (2015)",
-        "duraccion":"2h14",
-        "img":"images/uploads/mv-it4.jpg",
-        "descripcion":"Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
-
-    },
-    {
-        "titulo":"piratas del caribe (2023)",	
-         "calificacion":"10" ,
-         "director":"Luis garcia",
-         "actores":"Nando, Brayan, pao, erika, jk, vslr,isa,ian,wal.," ,
-         "fecha":"1  mayo (2015)",
-         "duraccion":"2h14",
-         "img":"images/uploads/mv-it6.jpg",
-         "children":"Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
- 
-     }
-     ,
-    {
-       "titulo":"rebel mom (2023)",	
-        "calificacion":"10" ,
-        "director":"Luis garcia",
-        "actores":"Nando, Brayan, pao, erika, jk, vslr,isa,ian,wal.," ,
-        "fecha":"1  mayo (2015)",
-        "duraccion":"2h14",
-        "img":"images/uploads/mv-it4.jpg",
-        "descripcion":"Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
-
-    },
-    {
-        "titulo":"piratas del caribe (2023)",	
-         "calificacion":"10" ,
-         "director":"Luis garcia",
-         "actores":"Nando, Brayan, pao, erika, jk, vslr,isa,ian,wal.," ,
-         "fecha":"1  mayo (2015)",
-         "duraccion":"2h14",
-         "img":"images/uploads/mv-it6.jpg",
-         "children":"Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
- 
-     }
+	{
+		"titulo": "developp (2023)",
+		"calificacion": "8.1",
+		"director": "Joss Whedon",
+		"actores": "Robert Downey Jr.,",
+		"fecha": "1 de mayo (2015)",
+		"duraccion": "2h14",
+		"img": "images/uploads/mv-item7.jpg",
+		"descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
+	},
+	{
+		"titulo": "rebel mom (2023)",
+		"calificacion": "10",
+		"director": "Luis garcia",
+		"actores": "Nando, Brayan, pao, erika, jk, vslr,isa,ian,wal.,",
+		"fecha": "1  mayo (2015)",
+		"duraccion": "2h14",
+		"img": "images/uploads/mv-it4.jpg",
+		"descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
+	},
+	{
+		"titulo": "piratas del caribe (2023)",
+		"calificacion": "10",
+		"director": "Luis garcia",
+		"actores": "Nando, Brayan, pao, erika, jk, vslr,isa,ian,wal.,",
+		"fecha": "1  mayo (2015)",
+		"duraccion": "2h14",
+		"img": "images/uploads/mv-it6.jpg",
+		"children": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
+	},
+	{
+		"titulo": "rebel mom (2023)",
+		"calificacion": "10",
+		"director": "Luis garcia",
+		"actores": "Nando, Brayan, pao, erika, jk, vslr,isa,ian,wal.,",
+		"fecha": "1  mayo (2015)",
+		"duraccion": "2h14",
+		"img": "images/uploads/mv-it4.jpg",
+		"descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
+	},
+	{
+		"titulo": "piratas del caribe (2023)",
+		"calificacion": "10",
+		"director": "Luis garcia",
+		"actores": "Nando, Brayan, pao, erika, jk, vslr,isa,ian,wal.,",
+		"fecha": "1  mayo (2015)",
+		"duraccion": "2h14",
+		"img": "images/uploads/mv-it6.jpg",
+		"children": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
+	}
 ]
