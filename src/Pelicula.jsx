@@ -11,18 +11,17 @@ export default function Pelicula(props) {
 					<span>{props.calificacion}</span> /10
 				</p>
 
-				<p className="describe">{props.children}</p>
+				<p className="describe">{props.descripcion}</p>
 				<p className="run-time">
-					{" "}
-					duraccion: {props.duraccion} . <span>MMPA: PG-13 </span> .{" "}
+					duraccion: {props.duraccion}. <span>MMPA: PG-13 </span>.
 					<span>fecha: {props.fecha}</span>
 				</p>
 				<p>
 					Director: <a href="#">{props.director}</a>
 				</p>
 				<p>
-					actores: <a href="#">{props.actores}</a>{" "}
-					<a href="#">Chris Evans,</a>{" "}
+					actores: <a href="#">{props.actores}</a>
+					<a href="#">Chris Evans,</a>
 					<a href="#"> {props.actores}</a>
 				</p>
 			</div>

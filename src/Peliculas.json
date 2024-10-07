@@ -5,7 +5,7 @@
 		"director": "Joss Whedon",
 		"actores": "Robert Downey Jr.,",
 		"fecha": "1 de mayo (2015)",
-		"duraccion": "2h14",
+		"duracion": "2h14",
 		"img": "images/uploads/mv-item7.jpg",
 		"descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
 	},
@@ -15,7 +15,7 @@
 		"director": "Luis garcia",
 		"actores": "Nando, Brayan, pao, erika, jk, vslr,isa,ian,wal.,",
 		"fecha": "1  mayo (2015)",
-		"duraccion": "2h14",
+		"duracion": "2h14",
 		"img": "images/uploads/mv-it4.jpg",
 		"descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
 	},
@@ -25,9 +25,9 @@
 		"director": "Luis garcia",
 		"actores": "Nando, Brayan, pao, erika, jk, vslr,isa,ian,wal.,",
 		"fecha": "1  mayo (2015)",
-		"duraccion": "2h14",
+		"duracion": "2h14",
 		"img": "images/uploads/mv-it6.jpg",
-		"children": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
+		"descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
 	},
 	{
 		"titulo": "rebel mom (2023)",
@@ -35,7 +35,7 @@
 		"director": "Luis garcia",
 		"actores": "Nando, Brayan, pao, erika, jk, vslr,isa,ian,wal.,",
 		"fecha": "1  mayo (2015)",
-		"duraccion": "2h14",
+		"duracion": "2h14",
 		"img": "images/uploads/mv-it4.jpg",
 		"descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
 	},
@@ -45,8 +45,179 @@
 		"director": "Luis garcia",
 		"actores": "Nando, Brayan, pao, erika, jk, vslr,isa,ian,wal.,",
 		"fecha": "1  mayo (2015)",
-		"duraccion": "2h14",
+		"duracion": "2h14",
 		"img": "images/uploads/mv-it6.jpg",
-		"children": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
+		"descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity"
+	},
+
+	{
+		"titulo": "The Shawshank Redemption (1994)",
+		"calificacion": "9.3",
+		"director": "Frank Darabont",
+		"actores": "Tim Robbins, Morgan Freeman",
+		"fecha": "14 de octubre (1994)",
+		"duracion": "2h22",
+		"img": "images/uploads/mv-it7.jpg",
+		"descripcion": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+	},
+	{
+		"titulo": "The Godfather (1972)",
+		"calificacion": "9.2",
+		"director": "Francis Ford Coppola",
+		"actores": "Marlon Brando, Al Pacino",
+		"fecha": "24 de marzo (1972)",
+		"duracion": "2h55",
+		"img": "images/uploads/mv-it8.jpg",
+		"descripcion": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son."
+	},
+	{
+		"titulo": "The Dark Knight (2008)",
+		"calificacion": "9.0",
+		"director": "Christopher Nolan",
+		"actores": "Christian Bale, Heath Ledger",
+		"fecha": "18 de julio (2008)",
+		"duracion": "2h32",
+		"img": "images/uploads/mv-it9.jpg",
+		"descripcion": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham."
+	},
+	{
+		"titulo": "Pulp Fiction (1994)",
+		"calificacion": "8.9",
+		"director": "Quentin Tarantino",
+		"actores": "John Travolta, Uma Thurman, Samuel L. Jackson",
+		"fecha": "14 de octubre (1994)",
+		"duracion": "2h34",
+		"img": "images/uploads/mv-it1.jpg",
+		"descripcion": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+	},
+	{
+		"titulo": "The Lord of the Rings: The Return of the King (2003)",
+		"calificacion": "8.9",
+		"director": "Peter Jackson",
+		"actores": "Elijah Wood, Viggo Mortensen",
+		"fecha": "17 de diciembre (2003)",
+		"duracion": "3h21",
+		"img": "images/uploads/mv-it2.jpg",
+		"descripcion": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+	},
+	{
+		"titulo": "Schindler's List (1993)",
+		"calificacion": "8.9",
+		"director": "Steven Spielberg",
+		"actores": "Liam Neeson, Ralph Fiennes",
+		"fecha": "15 de diciembre (1993)",
+		"duracion": "3h15",
+		"img": "images/uploads/mv-it3.jpg",
+		"descripcion": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+	},
+	{
+		"titulo": "Inception (2010)",
+		"calificacion": "8.8",
+		"director": "Christopher Nolan",
+		"actores": "Leonardo DiCaprio, Joseph Gordon-Levitt",
+		"fecha": "16 de julio (2010)",
+		"duracion": "2h28",
+		"img": "images/uploads/mv-it4.jpg",
+		"descripcion": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+	},
+	{
+		"titulo": "Fight Club (1999)",
+		"calificacion": "8.8",
+		"director": "David Fincher",
+		"actores": "Brad Pitt, Edward Norton",
+		"fecha": "15 de octubre (1999)",
+		"duracion": "2h19",
+		"img": "images/uploads/mv-item8.jpg",
+		"descripcion": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+	},
+	{
+		"titulo": "Forrest Gump (1994)",
+		"calificacion": "8.8",
+		"director": "Robert Zemeckis",
+		"actores": "Tom Hanks, Robin Wright",
+		"fecha": "6 de julio (1994)",
+		"duracion": "2h22",
+		"img": "images/uploads/mv-item9.jpg",
+		"descripcion": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold from the perspective of an Alabama man with an IQ of 75."
+	},
+	{
+		"titulo": "The Matrix (1999)",
+		"calificacion": "8.7",
+		"director": "Lana Wachowski, Lilly Wachowski",
+		"actores": "Keanu Reeves, Laurence Fishburne",
+		"fecha": "31 de marzo (1999)",
+		"duracion": "2h16",
+		"img": "images/uploads/mv-item9.jpg",
+		"descripcion": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+	},
+	{
+		"titulo": "Goodfellas (1990)",
+		"calificacion": "8.7",
+		"director": "Martin Scorsese",
+		"actores": "Robert De Niro, Ray Liotta",
+		"fecha": "19 de septiembre (1990)",
+		"duracion": "2h26",
+		"img": "images/uploads/mv-item7.jpg",
+		"descripcion": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners."
+	},
+	{
+		"titulo": "The Silence of the Lambs (1991)",
+		"calificacion": "8.6",
+		"director": "Jonathan Demme",
+		"actores": "Jodie Foster, Anthony Hopkins",
+		"fecha": "14 de febrero (1991)",
+		"duracion": "1h58",
+		"img": "images/uploads/mv-item6.jpg",
+		"descripcion": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+	},
+	{
+		"titulo": "Saving Private Ryan (1998)",
+		"calificacion": "8.6",
+		"director": "Steven Spielberg",
+		"actores": "Tom Hanks, Matt Damon",
+		"fecha": "24 de julio (1998)",
+		"duracion": "2h49",
+		"img": "images/uploads/mv-item5.jpg",
+		"descripcion": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+	},
+	{
+		"titulo": "Interstellar (2014)",
+		"calificacion": "8.6",
+		"director": "Christopher Nolan",
+		"actores": "Matthew McConaughey, Anne Hathaway",
+		"fecha": "7 de noviembre (2014)",
+		"duracion": "2h49",
+		"img": "images/uploads/mv-item4.jpg",
+		"descripcion": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+	},
+	{
+		"titulo": "The Green Mile (1999)",
+		"calificacion": "8.6",
+		"director": "Frank Darabont",
+		"actores": "Tom Hanks, Michael Clarke Duncan",
+		"fecha": "10 de diciembre (1999)",
+		"duracion": "3h9",
+		"img": "images/uploads/mv-item3.jpg",
+		"descripcion": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+	},
+	{
+		"titulo": "Gladiator (2000)",
+		"calificacion": "8.5",
+		"director": "Ridley Scott",
+		"actores": "Russell Crowe, Joaquin Phoenix",
+		"fecha": "5 de mayo (2000)",
+		"duracion": "2h35",
+		"img": "images/uploads/mv-item2.jpg",
+		"descripcion": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+	},
+	{
+		"titulo": "The Prestige (2006)",
+		"calificacion": "8.5",
+		"director": "Christopher Nolan",
+		"actores": "Christian Bale, Hugh Jackman",
+		"fecha": "20 de octubre (2006)",
+		"duracion": "2h10",
+		"img": "images/uploads/mv-item1.jpg",
+		"descripcion": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other"
 	}
 ]
