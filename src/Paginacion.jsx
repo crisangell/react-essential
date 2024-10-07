@@ -1,14 +1,13 @@
-import App from "./App";
 export default function Paginacion(props) {
 	const getPaginas = () => {
 		const resultado = [];
-		for (var i = 0; i < props.Total; i++) {
+		for (let i = 0; i < props.total; i++) {
+			const pagina = i + 1;
+			const estilo = props.pagina === pagina ? "active" : "";
+			const actualizarPaginaActual = () => props.onChange(pagina);
 			resultado.push(
-				<a
-					onClick={() => props.onChange}
-					className={props.pagina === i + 1 ? "active" : ""}
-				>
-					{i + 1}
+				<a key={i} onClick={actualizarPaginaActual} className={estilo}>
+					{pagina}
 				</a>
 			);
 		}
